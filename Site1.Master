@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1151.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="Styles/StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <img src="Images/sam-online-banner.jpg" class="banner" />
+        <div class="header">
+            <a href="/" target="_self">SAM Online</a> &nbsp;|&nbsp;
+            <a href="https://www.unikl.edu.my" target="_blank">UniKL Web Site</a> &nbsp;|&nbsp;
+            <a href="https://portal.unikl.edu.my" target="_blank">UniKL Portal</a> &nbsp;|&nbsp;
+            <a href="https://login.microsoftonline.com" target="_blank">Microsoft Online</a> &nbsp;|&nbsp;
+        </div>
+        <div class="leftMenuColumn">
+            <asp:HyperLink ID="HyperLink1" CssClass="leftMenuLink" NavigateUrl="~/WebFormBird.aspx" runat="server" Text="Bird Page" /><br />
+            <asp:HyperLink ID="HyperLink2" CssClass="leftMenuLink" NavigateUrl="~/WebFormDog.aspx" runat="server" Text="Dog Page" /><br />
+            <asp:HyperLink ID="HyperLink3" CssClass="leftMenuLink" NavigateUrl="~/WebFormRabbit.aspx" runat="server" Text="Rabbit Page" /><br />
+        </div>
+        <div class="content">
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

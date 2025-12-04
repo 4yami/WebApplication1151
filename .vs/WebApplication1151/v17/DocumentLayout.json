@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|c:\\users\\adminpc\\documents\\coding\\sem4\\web-application-development\\webapplication1151\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\webformrabbit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:webformrabbit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\webformrabbit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:webformrabbit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\webformrabbit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:webformrabbit.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\webformdog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:webformdog.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\webformbird.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{97B82DCC-1E3A-48C6-8688-FEF470454DEA}|WebApplication1151.csproj|solutionrelative:webformbird.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 381,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T14:29:59.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebFormRabbit.aspx",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormRabbit.aspx",
+              "RelativeDocumentMoniker": "WebFormRabbit.aspx",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormRabbit.aspx",
+              "RelativeToolTip": "WebFormRabbit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T11:04:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebFormRabbit.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormRabbit.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebFormRabbit.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormRabbit.aspx.designer.cs",
+              "RelativeToolTip": "WebFormRabbit.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:41:53.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebFormRabbit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormRabbit.aspx.cs",
+              "RelativeDocumentMoniker": "WebFormRabbit.aspx.cs",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormRabbit.aspx.cs",
+              "RelativeToolTip": "WebFormRabbit.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T14:41:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebFormDog.aspx",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormDog.aspx",
+              "RelativeDocumentMoniker": "WebFormDog.aspx",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormDog.aspx",
+              "RelativeToolTip": "WebFormDog.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T11:03:51.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebFormBird.aspx",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormBird.aspx",
+              "RelativeDocumentMoniker": "WebFormBird.aspx",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\WebFormBird.aspx",
+              "RelativeToolTip": "WebFormBird.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T11:03:37.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\AdminPC\\Documents\\Coding\\sem4\\web-application-development\\WebApplication1151\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-02T10:17:12.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
