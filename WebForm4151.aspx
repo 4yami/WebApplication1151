@@ -1,13 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm4151.aspx.cs" Inherits="WebApplication1151.WebForm4" %>
+﻿<%@ Page Title="151" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="WebForm4151.aspx.cs" Inherits="WebApplication1151.WebForm4151" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h3>Radio Button List</h3>
     <p>Which of these is a server-side programming language?</p>
     <asp:RadioButtonList ID="rblQuestion" runat="server"
@@ -37,6 +32,4 @@
         Selected Value:
         <asp:Label ID="lblSelectedValue" runat="server" Text="..."></asp:Label>
     </p>
-</form>
-</body>
-</html>
+</asp:Content>

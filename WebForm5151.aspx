@@ -1,13 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm5151.aspx.cs" Inherits="WebApplication1151.WebForm5" %>
+﻿<%@ Page Title="151" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="WebForm5151.aspx.cs" Inherits="WebApplication1151.WebForm5151" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <h3>List Box, Drop Down List, and Image</h3>
     <p>What is your most favourite pet?</p>
     <p>
@@ -37,6 +32,4 @@
         <asp:Image ID="imgPet" runat="server" Height="150px"
             ImageUrl="~/Images/pet.png" />
     </p>
-</form>
-</body>
-</html>
+</asp:Content>

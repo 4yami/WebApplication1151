@@ -1,13 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm2151.aspx.cs" Inherits="WebApplication1151.WebForm2" %>
+﻿<%@ Page Title="151" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="WebForm2151.aspx.cs" Inherits="WebApplication1151.WebForm2151" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title></title>
-</head>
-<body>
-    <form id="form1" runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <h3>Convert Temperature</h3>
 
         <p>
@@ -30,7 +25,4 @@
             Weather temperature status:&nbsp;&nbsp;
             <asp:Label ID="lblWeather" runat="server" Text="" />
         </p>
-
-    </form>
-</body>
-</html>
+</asp:Content>

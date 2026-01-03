@@ -7,22 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1151
-{
-
-
-    public partial class WebForm5
-    {
-
-        /// <summary>
-        /// form1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
-
+namespace WebApplication1151 {
+    
+    
+    public partial class WebForm5151 {
+        
         /// <summary>
         /// lstPet control.
         /// </summary>
@@ -31,7 +20,7 @@ namespace WebApplication1151
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ListBox lstPet;
-
+        
         /// <summary>
         /// ddlImageSize control.
         /// </summary>
@@ -40,7 +29,7 @@ namespace WebApplication1151
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList ddlImageSize;
-
+        
         /// <summary>
         /// imgPet control.
         /// </summary>

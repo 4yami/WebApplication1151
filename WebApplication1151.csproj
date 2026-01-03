@@ -75,12 +75,16 @@
     <Content Include="Images\Lizard.png" />
     <Content Include="Images\Rabbit.png" />
     <Content Include="Styles\StyleSheet1.css" />
+    <Content Include="Styles\StyleSheet2.css" />
+    <Content Include="UserControls\AverageofTwoNumbersUC.ascx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1151.aspx" />
     <Content Include="WebForm2151.aspx" />
     <Content Include="WebForm3151.aspx" />
     <Content Include="WebForm4151.aspx" />
     <Content Include="WebForm5151.aspx" />
+    <Content Include="WebForm6a151.aspx" />
+    <Content Include="WebFormAverageofTwoNumbers151.aspx" />
     <Content Include="WebFormBird.aspx" />
     <Content Include="WebFormDog.aspx" />
     <Content Include="WebFormElectricity151.aspx" />
@@ -101,6 +105,13 @@
     </Compile>
     <Compile Include="Site1.Master.designer.cs">
       <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\AverageofTwoNumbersUC.ascx.cs">
+      <DependentUpon>AverageofTwoNumbersUC.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\AverageofTwoNumbersUC.ascx.designer.cs">
+      <DependentUpon>AverageofTwoNumbersUC.ascx</DependentUpon>
     </Compile>
     <Compile Include="WebForm1151.aspx.cs">
       <DependentUpon>WebForm1151.aspx</DependentUpon>
@@ -136,6 +147,20 @@
     </Compile>
     <Compile Include="WebForm5151.aspx.designer.cs">
       <DependentUpon>WebForm5151.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm6a151.aspx.cs">
+      <DependentUpon>WebForm6a151.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm6a151.aspx.designer.cs">
+      <DependentUpon>WebForm6a151.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebFormAverageofTwoNumbers151.aspx.cs">
+      <DependentUpon>WebFormAverageofTwoNumbers151.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebFormAverageofTwoNumbers151.aspx.designer.cs">
+      <DependentUpon>WebFormAverageofTwoNumbers151.aspx</DependentUpon>
     </Compile>
     <Compile Include="WebFormBird.aspx.cs">
       <DependentUpon>WebFormBird.aspx</DependentUpon>

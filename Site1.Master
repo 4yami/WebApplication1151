@@ -22,6 +22,14 @@
             <asp:HyperLink ID="HyperLink1" CssClass="leftMenuLink" NavigateUrl="~/WebFormBird.aspx" runat="server" Text="Bird Page" /><br />
             <asp:HyperLink ID="HyperLink2" CssClass="leftMenuLink" NavigateUrl="~/WebFormDog.aspx" runat="server" Text="Dog Page" /><br />
             <asp:HyperLink ID="HyperLink3" CssClass="leftMenuLink" NavigateUrl="~/WebFormRabbit.aspx" runat="server" Text="Rabbit Page" /><br />
+            <asp:HyperLink ID="HyperLink4" CssClass="leftMenuLink" NavigateUrl="~/WebForm1151.aspx" runat="server" Text="Hello Page" /><br />
+            <asp:HyperLink ID="HyperLink9" CssClass="leftMenuLink" NavigateUrl="~/WebForm2151.aspx" runat="server" Text="Temperature Page" /><br />
+            <asp:HyperLink ID="HyperLink5" CssClass="leftMenuLink" NavigateUrl="~/WebForm3151.aspx" runat="server" Text="Mark & Grade Page" /><br />
+            <asp:HyperLink ID="HyperLink6" CssClass="leftMenuLink" NavigateUrl="~/WebForm4151.aspx" runat="server" Text="Multiple Choice Page" /><br />
+            <asp:HyperLink ID="HyperLink7" CssClass="leftMenuLink" NavigateUrl="~/WebForm5151.aspx" runat="server" Text="Favourite Pet Page" /><br />
+            <asp:HyperLink ID="HyperLink8" CssClass="leftMenuLink" NavigateUrl="~/WebForm6a151.aspx" runat="server" Text="Registration Page" /><br />
+            <asp:HyperLink ID="HyperLink10" CssClass="leftMenuLink" NavigateUrl="~/WebFormAverageofTwoNumbers151.aspx" runat="server" Text="Average Two Numbers Page" /><br />
+
         </div>
         <div class="content">
 

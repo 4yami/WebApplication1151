@@ -1,13 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1151.aspx.cs" Inherits="WebApplication1151.WebForm1" %>
+﻿<%@ Page Title="151" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="WebForm1151.aspx.cs" Inherits="WebApplication1151.WebForm1151" %>
 
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-    <title>151</title>
-</head>
-<body>
-    <form id="form1" runat="server">
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
         <p>Hello World!</p>
         <p>
             Hello message 1:
@@ -32,7 +27,6 @@
         <p>
             <asp:Button ID="btnSomeone" runat="server" Text="Submit" OnClick="btnSomeone_Click" />
         </p>
-    </form>
-</body>
-</html>
+
+</asp:Content>
 
